@@ -1,4 +1,4 @@
-![Hi, my name is Roa'a AlSughair](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
+![Hi, my name is Roa'a AlSughair](./Cover%20Banner.png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
