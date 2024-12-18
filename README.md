@@ -1,7 +1,7 @@
 ![Hi, my name is Roa'a AlSughair](./Cover%20Banner.png)
 
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
         Hi, my name is Roa'a AlSughair
@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/roaa-alsughair" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://bitbucket.org/roaa-alsughair" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">A full-stack web developer located in Amman, Jordan, with knowledge in front-end and back-end development, databases, code debugging, and problem-solving, seeking the next opportunity.</h3>**
+ **<h3 align="left">I'm a full-stack web developer located in Amman, Jordan, with a focus on front-end development, code debugging, and problem-solving, seeking the next opportunity.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
