@@ -13,11 +13,11 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/roaa-alsughair" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://bitbucket.org/roaa-alsughair" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I'm a full-stack web developer located in Amman, Jordan, with a focus on front-end development, code debugging, and problem-solving, seeking the next opportunity.</h3>**
+ **<h3 align="left">I'm a full-stack web developer based in Amman, Jordan, with a focus on front-end development, code debugging, and problem-solving, seeking the next opportunity.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Developing the first version of my portfolio**
+- 💼 I'm currently working on: **Refactoring my previously created projects**
 - 🌱 I'm currently learning: **The "Behind the scenes" of JavaScript**
 
  **<h3 align="left">Skills</h3>**
@@ -27,7 +27,7 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RoaaAlSughair&theme=vision-friendly-dark&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoaaAlSughair&theme=vision-friendly-dark&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RoaaAlSughair&theme=vision-friendly-dark&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoaaAlSughair&theme=vision-friendly-dark&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
